@@ -1,5 +1,5 @@
 def my_hash
-  new_hash["a thing"]="the thing's thing"
+  new_hash={"a thing", "the thing's thing"}
   return new_hash
 end
 
